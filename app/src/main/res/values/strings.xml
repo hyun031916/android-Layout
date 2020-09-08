@@ -1,8 +1,10 @@
 <resources>
     <string name="app_name">android-Layout</string>
     <string name="b1">b1</string>
-    <string name="tv1">tv1</string>
-    <string name="cb1">cb1</string>
-    <string name="rb1">rb1</string>
-    <string name="s1">s1</string>
+<!--    <string name="tv1">tv1</string>-->
+<!--    <string name="cb1">cb1</string>-->
+<!--    <string name="rb1">rb1</string>-->
+<!--    <string name="s1">s1</string>-->
+    <string name="b2">b2</string>
+    <string name="b3">b3</string>
 </resources>
